@@ -1,9 +1,5 @@
 <header>
 
-# **Clouds**
-
-_**Clouds in Unity **_
-
 </header>
    
 <footer>
