@@ -1,33 +1,9 @@
-<header>
+![Fake_VolumetricsHD](https://github.com/user-attachments/assets/77ee5d5a-ebc6-4caf-b329-3d7c396ba418)
 
-![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
+# Nubes
 
-# **Clouds**
+Nubes volumétricas falsas hechas en Unity 6 URP.
 
-_**Clouds in Unity **_
-
-
-</header>
-   
-<footer>
-   
-## Después de crear el repositorio desde la plantilla, asegúrate de revisar lo siguiente:
-
-### 📸 Social Preview
-- [ ] Sube una imagen `preview.png` personalizada en `Settings → Social Preview`.
-
-### ⚙️ Repository Features
-Desactiva funciones que no necesitas en `Settings → Features`:
-
-- [ ] Desactivar **Projects**
-- [ ] Desactivar **Wiki**
-- [ ] Desactivar **Packages**
-- [ ] Desactivar **Environments** (Deployments)
-- [ ] Confirmar que **Releases** sigue activado ✅
-
-### 🎨 Personalización visual
-- [ ] Cambiar imagen del banner de portada.
-- [ ] Dejar Topics necesarios.
-
-
-</footer>
+References
+- https://www.youtube.com/watch?v=YPy2hytwDLM&t=1970s
+- https://www.youtube.com/watch?v=hIRc2hRAdHk
