@@ -16,11 +16,19 @@ References
 
 ## Contenido
 
-* **VFX Graph:** `6WaySmoke`, `FakeVolumetrics`, `Fake_FogPyramid-Horizon`, `Fake_FogPyramids`, `Fake_Volumetrics_Nile_Front`, `Fake_Volumetrics_Nile_Sides`, `Fake_Volumetrics_Nile_Top`, `Fake_Volumetrics_Nile_bottom`, `FloatingFogArea`, `FloatingFogArea_Dither` y 1 más
-* **Shader Graph:** `6WaySmoke`, `Clouds`, `Fake_Volumetric_Clouds_Shader`, `New Clouds Nile`, `NewClouds`, `NewClouds Hueco`, `Six-wayShader`
-* **Shaders HLSL:** `Cloud Nile`, `Clouds Nile`, `Insects_ParticlesUnlit`
-* **Prefabs:** `Cloud Disk`, `Clouds`, `DustStorm`, `FakeFog(Obsolete)`, `FakeVolumetrics`, `FloatingFogArea`, `FloatingFogArea_Dither`, `FloatingFogBG`, `FogNubes`, `Global Volume` y 15 más
-* **Escenas:** `Assets/3-Scenes/Guillermo.unity`, `Assets/3-Scenes/Main.unity`
+Efectos en `Assets/2-Art/2-VFX/`:
+
+| Efecto | VFX | Shader Graph | Shaders | Scripts | Prefabs | Materiales |
+|---|---|---|---|---|---|---|
+| **Cloud** | — | 1 | — | — | 3 | 2 |
+| **Fake Volumetric** | 2 | 5 | 2 | — | 4 | 7 |
+| **FloatingFog** | 3 | — | — | — | 3 | — |
+| **Fog** | 2 | — | — | — | 2 | 5 |
+| **Insects** | — | — | 1 | — | — | — |
+| **Nilo-Fake-Volumetrics** | 4 | 1 | — | — | 1 | — |
+| **Smoke & Steam Effects** | — | — | — | — | 12 | 10 |
+
+**Escenas de demostración:** `Assets/3-Scenes/Guillermo.unity`, `Assets/3-Scenes/Main.unity`
 
 ## Uso
 
