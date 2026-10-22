@@ -1,15 +1,15 @@
 {
   "dependencies": {
     "com.jaimecamacho.discovernotes": "1.2.0",
-    "com.jaimecamacho.unityfolders": "1.2.4",
-    "com.jaimecamacho.unitymultitool": "1.0.2",
+    "com.jaimecamachodev.unityfolders": "2.1.0",
+    "com.jaimecamachodev.unitymultitool": "1.2.9",
     "com.unity.editorcoroutines": "1.0.1",
     "com.unity.formats.alembic": "2.4.4",
+    "com.unity.modules.adaptiveperformance": "1.0.0",
+    "com.unity.modules.vectorgraphics": "1.0.0",
     "com.unity.recorder": "5.1.5",
     "com.unity.render-pipelines.universal": "17.3.0",
-    "com.unity.visualeffectgraph": "17.3.0",
-    "com.unity.modules.adaptiveperformance": "1.0.0",
-    "com.unity.modules.vectorgraphics": "1.0.0"
+    "com.unity.visualeffectgraph": "17.3.0"
   },
   "scopedRegistries": [
     {
@@ -23,7 +23,8 @@
       "name": "JaimeCamachoDev",
       "url": "https://registry.npmjs.org",
       "scopes": [
-        "com.jaimecamacho"
+        "com.jaimecamacho",
+        "com.jaimecamachodev"
       ]
     }
   ]
